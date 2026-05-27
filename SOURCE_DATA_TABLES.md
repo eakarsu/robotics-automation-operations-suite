@@ -52,7 +52,7 @@ Detected source tables: 149
 | AiBusinessAutomation | contracts | SQL | 13 | backend/src/seed.js |
 | AiBusinessAutomation | data_entries | SQL | 10 | backend/src/seed.js |
 | AiBusinessAutomation | documents | SQL | 11 | backend/src/seed.js |
-| AiBusinessAutomation | emails | SQL | 12 | backend/src/seed.js |
+| AiBusinessAutomation | emails | SQL | 13 | backend/src/seed.js |
 | AiBusinessAutomation | expenses | SQL | 14 | backend/src/seed.js |
 | AiBusinessAutomation | gap_features | SQL | 6 | backend/src/routes/gap_despite_ai_js_aistream_js_route_files_0_mounted_ai.js |
 | AiBusinessAutomation | gap_features | SQL | 6 | backend/src/routes/gap_no_ai_bot_builder_for_repetitive_tasks.js |

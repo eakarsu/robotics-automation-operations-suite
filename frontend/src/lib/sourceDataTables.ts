@@ -4349,6 +4349,15 @@ export const sourceDataTables: SourceDataTable[] = [
         "sourceLine": "received_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP"
       },
       {
+        "name": "created_at",
+        "type": "TIMESTAMP",
+        "nullable": true,
+        "primaryKey": false,
+        "unique": false,
+        "defaultValue": "CURRENT_TIMESTAMP",
+        "sourceLine": "created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP"
+      },
+      {
         "name": "updated_at",
         "type": "TIMESTAMP",
         "nullable": true,
